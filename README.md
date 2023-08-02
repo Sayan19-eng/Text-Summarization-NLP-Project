@@ -17,9 +17,10 @@ Text summarization is the process of creating a short, accurate, and fluent summ
 - Word-frequency table
 - Summarization
 
-You can install SpaCy using the following commands:-
--**!pip install -U spacy**
--**!python -m spacy download en_core_web_sm**
+# You can install SpaCy using the following commands:-
+
+- **!pip install -U spacy**
+- **!python -m spacy download en_core_web_sm**
 
 # Necessary libraries.
 - **spacy:** for Natural Language Processing.
