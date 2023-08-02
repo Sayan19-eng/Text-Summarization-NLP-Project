@@ -6,3 +6,13 @@ Text summarization is the process of creating a short, accurate, and fluent summ
 
 - Summaries reduce reading time.
 - While researching using various documents, summaries make the selection process easier.
+- Automatic summarization improves the effectiveness of indexing.
+- Automatic summarization algorithms are less biased than human summarizers.
+- Personalized summaries are useful in question-answering systems as they provide personalized information.
+- Using automatic or semi-automatic summarization systems enables commercial abstract services to - increase the number of text documents they are able to process.
+# How to do text summarization
+- Text Cleaning
+- Sentence Tokenization
+- Word Tokenization
+- Word-frequency table
+- Summarization
